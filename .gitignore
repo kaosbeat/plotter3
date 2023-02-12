@@ -1,3 +1,5 @@
 plotter3/*
 lib/tweetkeys.py
 *.pyc
+.env
+.vscode
